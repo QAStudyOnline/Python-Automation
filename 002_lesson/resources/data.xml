@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <username>Perun</username>
+    <firstname>Ivan</firstname>
+    <lastname>Fedorov</lastname>
+    <age>35</age>
+    <phone>+380911112233</phone>
+  </row>
+  <row>
+    <username>Shiva</username>
+    <firstname>Kumar</firstname>
+    <lastname>Shupra</lastname>
+    <age>12</age>
+    <phone>+9123499002</phone>
+  </row>
+  <row>
+    <username>Thor</username>
+    <firstname>Adolf</firstname>
+    <lastname>Merningshtern</lastname>
+    <age>48</age>
+    <phone>+46-71-334-8475</phone>
+  </row>
+  <row>
+    <username>Ra</username>
+    <firstname>Muhamed</firstname>
+    <lastname>Fadlan</lastname>
+    <age>24</age>
+    <phone>+20-10-23435-1236</phone>
+  </row>
+</root>

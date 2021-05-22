@@ -1,0 +1,30 @@
+[
+  {
+    "username": "Perun",
+    "firstname": "Ivan",
+    "lastname": "Fedorov",
+    "age": 35,
+    "phone": "+380911112233"
+  },
+  {
+    "username": "Shiva",
+    "firstname": "Kumar",
+    "lastname": "Shupra",
+    "age": 12,
+    "phone": "+9123499002"
+  },
+  {
+    "username": "Thor",
+    "firstname": "Adolf",
+    "lastname": "Merningshtern",
+    "age": 48,
+    "phone": "+46-71-334-8475"
+  },
+  {
+    "username": "Ra",
+    "firstname": "Muhamed",
+    "lastname": "Fadlan",
+    "age": 24,
+    "phone": "+20-10-23435-1236"
+  }
+]
