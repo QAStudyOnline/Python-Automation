@@ -1,4 +1,4 @@
-import functions_examples
+import functions_examples as fe
 
-print(functions_examples.custom_sum(23, 99))
-functions_examples.print_input_parameter("Python Awesome for scripting")
+print(fe.custom_sum(23, 99))
+fe.print_input_parameter("Python Awesome for scripting")

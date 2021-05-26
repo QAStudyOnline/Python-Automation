@@ -1,7 +1,7 @@
 # Class it is a description of object\instance
 # Instance\object it is variable with Class type
 # function inside class is method
-# variable in class it is a class variable or calss field
+# variable in class it is a class variable or class field
 # each class contain <constructor> or init method what call when we will create an instance of class
 
 class Car:

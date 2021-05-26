@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 def read_and_print_json(file_path):
     with open(file_path) as file:
         content = file.read()
+        print(content)
         value = json.loads(content)
         print(value)
     print("#######################################")
