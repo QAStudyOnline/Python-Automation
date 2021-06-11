@@ -40,11 +40,11 @@ driver.switch_to.frame(name attribute on iframe element)
 ```
 
 ## Waiters
-
+### Implicit 
 ```
 driver.implicitly_wait(10)
 ```
-
+### Explicit
 ```
 WebDriverWait(driver,10)
 .until(expected_conditions.visibility_of_element_located(<LOCATOR>>))
